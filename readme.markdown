@@ -129,7 +129,7 @@ and then in `static/layout.html` I have an empty element with an id of `body`:
     <h1>my way cool website</h1>
     <div id="body"></div>
   </body>
-</body>
+</html>
 ```
 
 Also check out [hyperstream](https://npmjs.org/package/hyperstream), which uses
